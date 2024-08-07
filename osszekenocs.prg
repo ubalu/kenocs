@@ -11,12 +11,12 @@
 11if ev>=1945tH27
 12if ev>=1920tH28
 13if ev=1919tH27
-14if ev>=1868tH29
+14if ev>=1867tH29
 15if 1848=ev or1849=ev tH26
 16l=11:c=1
 17if ev-int(ev/100)*100=1tH30 
 18if ev-int(ev/11)*11=0tH31
-19if1867<ev or1848=ev or1849=ev tH32
+19if1866<ev or1848=ev or1849=ev tH32
 20pO1024+i,l
 21pO55296+i,c
 22nE

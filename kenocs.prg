@@ -11,12 +11,12 @@ if ev>=1990tH&kozt&
 if ev>=1945tH&komm&
 if ev>=1920tH&horthy&
 if ev=1919tH&komm&
-if ev>=1868tH&mon&
+if ev>=1867tH&mon&
 if 1848=ev or1849=ev tH&kozt&
 l=11:c=1
 &vi1&if ev-int(ev/100)*100=1tH&kek& 
 if ev-int(ev/11)*11=0tH&vszur&
-if1867<ev or1848=ev or1849=ev tH&feher&
+if1866<ev or1848=ev or1849=ev tH&feher&
 &vi2&pO1024+i,l
 pO55296+i,c
 nE
