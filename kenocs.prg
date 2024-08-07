@@ -1,4 +1,4 @@
-pp=peek(53265)
+pp=pE(53265)
 pO53265,pp or64
 pO53281,11
 pO53282,1
@@ -8,7 +8,8 @@ fOi=0to999
 ev=i+1025
 if ev>=2010tH&foci&
 if ev>=1990tH&kozt&
-if ev>=1945tH&komm&
+if ev>=1949tH&komm&
+if ev>=1946tH&kozt&
 if ev>=1920tH&horthy&
 if ev=1919tH&komm&
 if ev>=1867tH&mon&
